@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Perlita</title>
+</head>
+<head>
+    <h1>Hola soy perlita y esta es mi historia </h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non perferendis at sapiente, commodi incidunt quas? Tempore, unde? Maxime asperiores fugit perspiciatis! Odio aspernatur esse dolorum quas maiores quam repellat deleniti!</p>
+</head>
+<body>
+    <img src="imagenes/perlita.jpg" alt="imagen5">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Animi hic tenetur necessitatibus quas dolorem, odit numquam esse dignissimos assumenda molestiae autem optio voluptates placeat aperiam voluptate id aspernatur aliquam! Nobis.</p>
+    
+</body>
+</html>
