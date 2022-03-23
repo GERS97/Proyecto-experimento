@@ -1,1 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>adpota un Perritos</title>
+</head>
 
+<head>       
+    <center><H1>Perritos en adopcion</H1></center>
+    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Mollitia inventore autem fugit tempora laudantium expedita, possimus eaque provident ut sunt, nemo ullam? Accusamus hic nostrum modi quam natus sequi sint? Lorem ipsum dolor sit amet consectetur adipisicing elit. In officiis quasi nam. Itaque, deserunt incidunt. Expedita eaque hic ullam laudantium aut odio beatae aliquam enim esse earum, natus sequi reprehenderit. Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui, ad culpa praesentium nihil facere sapiente reiciendis libero, reprehenderit deleniti voluptatum nobis autem repellat ea voluptate eum possimus commodi eaque? Quos.lo Lorem ipsum dolor sit amet consectetur adipisicing elit. Aperiam nemo error consectetur possimus vitae eaque enim repudiandae blanditiis earum. Harum, incidunt! Tenetur, iure saepe quis quia animi enim fuga ut!</p>
+</head>
+<!------------------------------------------------------------------------------CABEZA WEB-------------------------------------------------------------------------------------->
+<body>
+    <h1>Perritos que nececitan amor</h1>
+    <div>
+        <img src="imagenes/perro-tierno-1.jpg" alt="imagen3"> <a href="perlina.html"> Perlita</a>
+           
+    </div>
+    
+    <div>
+        <img src="imagenes/perro-tierno-2.jpg" alt="imagen4"> <a href="Condesa.html">Condesa</a>
+    </div>
+
+    
+    
+</body>
+</html>
